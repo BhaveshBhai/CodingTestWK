@@ -1,0 +1,128 @@
+C:\WL\WKBackend\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\WL\WKBackend\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.AssemblyInfoInputs.cache
+C:\WL\WKBackend\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.AssemblyInfo.cs
+C:\WL\WKBackend\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.csproj.CoreCompileInputs.cache
+C:\WL\WKBackend\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\WKBackend.exe
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\WKBackend.deps.json
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\WKBackend.runtimeconfig.json
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\WKBackend.runtimeconfig.dev.json
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\WKBackend.dll
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\WKBackend.pdb
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\WL\WKBackend\WKBackend\obj\Debug\netcoreapp3.1\staticwebassets\WKBackend.StaticWebAssets.Manifest.cache
+C:\WL\WKBackend\WKBackend\obj\Debug\netcoreapp3.1\staticwebassets\WKBackend.StaticWebAssets.xml
+C:\WL\WKBackend\WKBackend\obj\Debug\netcoreapp3.1\scopedcss\bundle\WKBackend.styles.css
+C:\WL\WKBackend\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.RazorTargetAssemblyInfo.cache
+C:\WL\WKBackend\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.csproj.CopyComplete
+C:\WL\WKBackend\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.dll
+C:\WL\WKBackend\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.pdb
+C:\WL\WKBackend\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.genruntimeconfig.cache
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\WL\WKBackend\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\WL\WKBackend\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.csprojAssemblyReference.cache
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\SPA\wkTest\angular.json
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\SPA\wkTest\package-lock.json
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\SPA\wkTest\package.json
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\SPA\wkTest\tsconfig.app.json
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\SPA\wkTest\tsconfig.json
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\SPA\wkTest\tsconfig.spec.json
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\WKBackend.exe
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\WKBackend.deps.json
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\WKBackend.runtimeconfig.json
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\WKBackend.runtimeconfig.dev.json
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\WKBackend.dll
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\WKBackend.pdb
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.AssemblyInfoInputs.cache
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.AssemblyInfo.cs
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.csproj.CoreCompileInputs.cache
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\obj\Debug\netcoreapp3.1\staticwebassets\WKBackend.StaticWebAssets.Manifest.cache
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\obj\Debug\netcoreapp3.1\staticwebassets\WKBackend.StaticWebAssets.xml
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\obj\Debug\netcoreapp3.1\scopedcss\bundle\WKBackend.styles.css
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.RazorTargetAssemblyInfo.cache
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.csproj.CopyComplete
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.dll
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.pdb
+C:\Priyank - 2021\WkTest\WKTest\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.genruntimeconfig.cache
+C:\WK-Git\Back-End\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.csprojAssemblyReference.cache
+C:\WK-Git\Back-End\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.dll
+C:\WK-Git\Back-End\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.pdb
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\SPA\wkTest\angular.json
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\SPA\wkTest\package.json
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\SPA\wkTest\tsconfig.app.json
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\SPA\wkTest\tsconfig.json
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\SPA\wkTest\tsconfig.spec.json
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\SPA\wkTest\package-lock.json
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\WKBackend.exe
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\WKBackend.deps.json
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\WKBackend.runtimeconfig.json
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\WKBackend.runtimeconfig.dev.json
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\WKBackend.dll
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\WKBackend.pdb
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\WK-Git\Back-End\WKBackend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\WK-Git\Back-End\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\WK-Git\Back-End\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.AssemblyInfoInputs.cache
+C:\WK-Git\Back-End\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.AssemblyInfo.cs
+C:\WK-Git\Back-End\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.csproj.CoreCompileInputs.cache
+C:\WK-Git\Back-End\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\WK-Git\Back-End\WKBackend\obj\Debug\netcoreapp3.1\staticwebassets\WKBackend.StaticWebAssets.Manifest.cache
+C:\WK-Git\Back-End\WKBackend\obj\Debug\netcoreapp3.1\staticwebassets\WKBackend.StaticWebAssets.xml
+C:\WK-Git\Back-End\WKBackend\obj\Debug\netcoreapp3.1\scopedcss\bundle\WKBackend.styles.css
+C:\WK-Git\Back-End\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.RazorTargetAssemblyInfo.cache
+C:\WK-Git\Back-End\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.csproj.CopyComplete
+C:\WK-Git\Back-End\WKBackend\obj\Debug\netcoreapp3.1\WKBackend.genruntimeconfig.cache
